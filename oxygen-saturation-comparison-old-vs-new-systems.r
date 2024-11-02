@@ -2,13 +2,13 @@
  "cells": [
   {
    "cell_type": "markdown",
-   "id": "3c3f36bf",
+   "id": "2fdfbaa4",
    "metadata": {
     "papermill": {
-     "duration": 0.005294,
-     "end_time": "2024-11-02T01:21:09.717896",
+     "duration": 0.003907,
+     "end_time": "2024-11-02T01:23:07.426898",
      "exception": false,
-     "start_time": "2024-11-02T01:21:09.712602",
+     "start_time": "2024-11-02T01:23:07.422991",
      "status": "completed"
     },
     "tags": []
@@ -21,13 +21,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "550f4af5",
+   "id": "888795c4",
    "metadata": {
     "papermill": {
-     "duration": 0.004496,
-     "end_time": "2024-11-02T01:21:09.727292",
+     "duration": 0.003275,
+     "end_time": "2024-11-02T01:23:07.433858",
      "exception": false,
-     "start_time": "2024-11-02T01:21:09.722796",
+     "start_time": "2024-11-02T01:23:07.430583",
      "status": "completed"
     },
     "tags": []
@@ -44,19 +44,19 @@
   {
    "cell_type": "code",
    "execution_count": 1,
-   "id": "e2bcdfaf",
+   "id": "78d932e5",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-11-02T01:21:09.742889Z",
-     "iopub.status.busy": "2024-11-02T01:21:09.739717Z",
-     "iopub.status.idle": "2024-11-02T01:21:10.053274Z",
-     "shell.execute_reply": "2024-11-02T01:21:10.050935Z"
+     "iopub.execute_input": "2024-11-02T01:23:07.446435Z",
+     "iopub.status.busy": "2024-11-02T01:23:07.443528Z",
+     "iopub.status.idle": "2024-11-02T01:23:07.762580Z",
+     "shell.execute_reply": "2024-11-02T01:23:07.760637Z"
     },
     "papermill": {
-     "duration": 0.324034,
-     "end_time": "2024-11-02T01:21:10.056139",
+     "duration": 0.328598,
+     "end_time": "2024-11-02T01:23:07.765651",
      "exception": false,
-     "start_time": "2024-11-02T01:21:09.732105",
+     "start_time": "2024-11-02T01:23:07.437053",
      "status": "completed"
     },
     "tags": []
@@ -103,19 +103,19 @@
   {
    "cell_type": "code",
    "execution_count": 2,
-   "id": "ad854f6d",
+   "id": "493fea5d",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-11-02T01:21:10.108443Z",
-     "iopub.status.busy": "2024-11-02T01:21:10.068128Z",
-     "iopub.status.idle": "2024-11-02T01:21:10.156225Z",
-     "shell.execute_reply": "2024-11-02T01:21:10.153496Z"
+     "iopub.execute_input": "2024-11-02T01:23:07.811273Z",
+     "iopub.status.busy": "2024-11-02T01:23:07.774700Z",
+     "iopub.status.idle": "2024-11-02T01:23:07.853497Z",
+     "shell.execute_reply": "2024-11-02T01:23:07.850926Z"
     },
     "papermill": {
-     "duration": 0.098409,
-     "end_time": "2024-11-02T01:21:10.159503",
+     "duration": 0.087522,
+     "end_time": "2024-11-02T01:23:07.856791",
      "exception": false,
-     "start_time": "2024-11-02T01:21:10.061094",
+     "start_time": "2024-11-02T01:23:07.769269",
      "status": "completed"
     },
     "tags": []
@@ -192,19 +192,19 @@
   {
    "cell_type": "code",
    "execution_count": 3,
-   "id": "7f069b0b",
+   "id": "c3ede761",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-11-02T01:21:10.173411Z",
-     "iopub.status.busy": "2024-11-02T01:21:10.171676Z",
-     "iopub.status.idle": "2024-11-02T01:21:10.195117Z",
-     "shell.execute_reply": "2024-11-02T01:21:10.192664Z"
+     "iopub.execute_input": "2024-11-02T01:23:07.868870Z",
+     "iopub.status.busy": "2024-11-02T01:23:07.867221Z",
+     "iopub.status.idle": "2024-11-02T01:23:07.888702Z",
+     "shell.execute_reply": "2024-11-02T01:23:07.886611Z"
     },
     "papermill": {
-     "duration": 0.033826,
-     "end_time": "2024-11-02T01:21:10.198348",
+     "duration": 0.030744,
+     "end_time": "2024-11-02T01:23:07.891541",
      "exception": false,
-     "start_time": "2024-11-02T01:21:10.164522",
+     "start_time": "2024-11-02T01:23:07.860797",
      "status": "completed"
     },
     "tags": []
@@ -228,19 +228,19 @@
   {
    "cell_type": "code",
    "execution_count": 4,
-   "id": "5b2b6eab",
+   "id": "f763df09",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-11-02T01:21:10.213205Z",
-     "iopub.status.busy": "2024-11-02T01:21:10.211449Z",
-     "iopub.status.idle": "2024-11-02T01:21:10.248246Z",
-     "shell.execute_reply": "2024-11-02T01:21:10.245844Z"
+     "iopub.execute_input": "2024-11-02T01:23:07.903665Z",
+     "iopub.status.busy": "2024-11-02T01:23:07.901903Z",
+     "iopub.status.idle": "2024-11-02T01:23:07.935611Z",
+     "shell.execute_reply": "2024-11-02T01:23:07.933705Z"
     },
     "papermill": {
-     "duration": 0.048325,
-     "end_time": "2024-11-02T01:21:10.251789",
+     "duration": 0.042766,
+     "end_time": "2024-11-02T01:23:07.938262",
      "exception": false,
-     "start_time": "2024-11-02T01:21:10.203464",
+     "start_time": "2024-11-02T01:23:07.895496",
      "status": "completed"
     },
     "tags": []
@@ -273,19 +273,19 @@
   {
    "cell_type": "code",
    "execution_count": 5,
-   "id": "92bb79a9",
+   "id": "74c8424c",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-11-02T01:21:10.266904Z",
-     "iopub.status.busy": "2024-11-02T01:21:10.265134Z",
-     "iopub.status.idle": "2024-11-02T01:21:10.292355Z",
-     "shell.execute_reply": "2024-11-02T01:21:10.289938Z"
+     "iopub.execute_input": "2024-11-02T01:23:07.950234Z",
+     "iopub.status.busy": "2024-11-02T01:23:07.948520Z",
+     "iopub.status.idle": "2024-11-02T01:23:07.973663Z",
+     "shell.execute_reply": "2024-11-02T01:23:07.971349Z"
     },
     "papermill": {
-     "duration": 0.03806,
-     "end_time": "2024-11-02T01:21:10.295596",
+     "duration": 0.034111,
+     "end_time": "2024-11-02T01:23:07.976407",
      "exception": false,
-     "start_time": "2024-11-02T01:21:10.257536",
+     "start_time": "2024-11-02T01:23:07.942296",
      "status": "completed"
     },
     "tags": []
@@ -307,13 +307,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "ca7b860b",
+   "id": "f2f85ccd",
    "metadata": {
     "papermill": {
-     "duration": 0.00537,
-     "end_time": "2024-11-02T01:21:10.306404",
+     "duration": 0.004,
+     "end_time": "2024-11-02T01:23:07.984541",
      "exception": false,
-     "start_time": "2024-11-02T01:21:10.301034",
+     "start_time": "2024-11-02T01:23:07.980541",
      "status": "completed"
     },
     "tags": []
@@ -321,24 +321,24 @@
    "source": [
     "p-value: This tells us the probability that the data follows a normal distribution. Typically, if the p-value is greater than 0.05, we say the data is likely to be normally distributed. If the p-value is less than 0.05, we say the data is not normally distributed.\n",
     "\n",
-    "Dampaknya\n",
+    "**Impact**\n",
     "\n",
-    "* Jika data tidak normal tetapi varians setara: Uji parametrik seperti t-test tetap dapat digunakan, tetapi tidak direkomendasikan. Uji non-parametrik, seperti Mann-Whitney U test, akan lebih tepat karena tidak tergantung pada asumsi distribusi normal.\n",
-    "* Jika data normal dan varians setara: Kondisi ideal untuk menggunakan uji t-test standar dengan asumsi var.equal = TRUE.\n",
-    "* Jika data normal tetapi varians tidak setara: Kita bisa tetap menggunakan t-test, tetapi harus mengatur var.equal = FALSE atau menggunakan alternatif uji seperti Welch’s t-test.\n",
+    "* If data is not normal but variances are equal: Parametric tests such as the t-test can still be used, but are not recommended. A non-parametric test, such as the Mann-Whitney U test, would be more appropriate as it does not depend on the assumption of normal distribution.\n",
+    "* If data are normal and variances are equal: The ideal condition is to use the standard t-test with the assumption var.equal = TRUE.\n",
+    "* If the data is normal but the variances are not equal: We can still use the t-test, but must set var.equal = FALSE or use an alternative test such as Welch's t-test.\n",
     "\n",
-    "Karena data kita tidak normal tetapi variansnya setara, rekomendasi terbaik adalah menggunakan Mann-Whitney U test sebagai pengganti uji t-test untuk menghindari pelanggaran asumsi yang bisa mengganggu interpretasi hasil."
+    "Since our data is not normal but the variances are equal, the best recommendation is to use the Mann-Whitney U test instead of the t-test to avoid violating assumptions that could interfere with the interpretation of the results."
    ]
   },
   {
    "cell_type": "markdown",
-   "id": "27c47ac4",
+   "id": "cf00776f",
    "metadata": {
     "papermill": {
-     "duration": 0.00531,
-     "end_time": "2024-11-02T01:21:10.317276",
+     "duration": 0.00423,
+     "end_time": "2024-11-02T01:23:07.992843",
      "exception": false,
-     "start_time": "2024-11-02T01:21:10.311966",
+     "start_time": "2024-11-02T01:23:07.988613",
      "status": "completed"
     },
     "tags": []
@@ -355,19 +355,19 @@
   {
    "cell_type": "code",
    "execution_count": 6,
-   "id": "1b06b116",
+   "id": "eb9478fe",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-11-02T01:21:10.331989Z",
-     "iopub.status.busy": "2024-11-02T01:21:10.330210Z",
-     "iopub.status.idle": "2024-11-02T01:21:10.356674Z",
-     "shell.execute_reply": "2024-11-02T01:21:10.354121Z"
+     "iopub.execute_input": "2024-11-02T01:23:08.005887Z",
+     "iopub.status.busy": "2024-11-02T01:23:08.003983Z",
+     "iopub.status.idle": "2024-11-02T01:23:08.028202Z",
+     "shell.execute_reply": "2024-11-02T01:23:08.026014Z"
     },
     "papermill": {
-     "duration": 0.037367,
-     "end_time": "2024-11-02T01:21:10.359983",
+     "duration": 0.033748,
+     "end_time": "2024-11-02T01:23:08.031192",
      "exception": false,
-     "start_time": "2024-11-02T01:21:10.322616",
+     "start_time": "2024-11-02T01:23:07.997444",
      "status": "completed"
     },
     "tags": []
@@ -395,13 +395,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "c3ccef6e",
+   "id": "7050cd82",
    "metadata": {
     "papermill": {
-     "duration": 0.005558,
-     "end_time": "2024-11-02T01:21:10.371020",
+     "duration": 0.004199,
+     "end_time": "2024-11-02T01:23:08.039554",
      "exception": false,
-     "start_time": "2024-11-02T01:21:10.365462",
+     "start_time": "2024-11-02T01:23:08.035355",
      "status": "completed"
     },
     "tags": []
@@ -414,19 +414,19 @@
   {
    "cell_type": "code",
    "execution_count": 7,
-   "id": "09a84081",
+   "id": "39a3413a",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-11-02T01:21:10.385844Z",
-     "iopub.status.busy": "2024-11-02T01:21:10.384083Z",
-     "iopub.status.idle": "2024-11-02T01:21:10.413104Z",
-     "shell.execute_reply": "2024-11-02T01:21:10.410424Z"
+     "iopub.execute_input": "2024-11-02T01:23:08.052788Z",
+     "iopub.status.busy": "2024-11-02T01:23:08.051030Z",
+     "iopub.status.idle": "2024-11-02T01:23:08.077678Z",
+     "shell.execute_reply": "2024-11-02T01:23:08.075474Z"
     },
     "papermill": {
-     "duration": 0.039901,
-     "end_time": "2024-11-02T01:21:10.416375",
+     "duration": 0.036538,
+     "end_time": "2024-11-02T01:23:08.080471",
      "exception": false,
-     "start_time": "2024-11-02T01:21:10.376474",
+     "start_time": "2024-11-02T01:23:08.043933",
      "status": "completed"
     },
     "tags": []
@@ -459,13 +459,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "e7b2d722",
+   "id": "e0118c10",
    "metadata": {
     "papermill": {
-     "duration": 0.005544,
-     "end_time": "2024-11-02T01:21:10.427578",
+     "duration": 0.004482,
+     "end_time": "2024-11-02T01:23:08.089486",
      "exception": false,
-     "start_time": "2024-11-02T01:21:10.422034",
+     "start_time": "2024-11-02T01:23:08.085004",
      "status": "completed"
     },
     "tags": []
@@ -508,14 +508,14 @@
   },
   "papermill": {
    "default_parameters": {},
-   "duration": 4.147628,
-   "end_time": "2024-11-02T01:21:10.557257",
+   "duration": 4.190678,
+   "end_time": "2024-11-02T01:23:08.217734",
    "environment_variables": {},
    "exception": null,
    "input_path": "__notebook__.ipynb",
    "output_path": "__notebook__.ipynb",
    "parameters": {},
-   "start_time": "2024-11-02T01:21:06.409629",
+   "start_time": "2024-11-02T01:23:04.027056",
    "version": "2.6.0"
   }
  },
